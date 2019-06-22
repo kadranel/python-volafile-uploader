@@ -2,7 +2,7 @@
 Python Volafile Uploader
 =====================
 
-Lightweight commandline interface for uploading to volafile.org rooms via volapi_. (Currently the uploader is working on volapi 5.14.2)
+Lightweight commandline interface for uploading to volafile.org rooms via volapi_. (Currently the uploader is working on volapi 5.16.0)
 
 .. _volapi: https://github.com/volafiled/python-volapi
 
