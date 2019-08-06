@@ -14,7 +14,7 @@ Installation
   a) Python 3.7
   b) pip
 1) How to install
-  a) Download the newest release of the downloader at https://github.com/kadranel/python-volafile-uploader/archive/1.0.0.zip or git clone this repository.
+  a) Download the newest release of the downloader at https://github.com/kadranel/python-volafile-uploader/archive/1.0.1.zip or git clone this repository.
   b) Unzip and enter the folder with you favourite shell, then type:
 ::
 
@@ -51,8 +51,6 @@ In this case the userdata in config.py will be overwritten.
 Other
 ------------
 If you have any issues/questions just post a new issue. Otherwise feel free to share, improve, use and make it your own.
-For more examples of how to use the python-volapi and what you can do with it you can look at my volazipbot_, python-volafile-downloader_ or python-volafile-tools_.
+For more examples of how to use the python-volapi and what you can do with it you can look at my python-volafile-downloader_.
 
-.. _volazipbot: https://github.com/kadranel/volazipbot
 .. _python-volafile-downloader: https://github.com/kadranel/python-volafile-downloader
-.. _python-volafile-tools: https://github.com/kadranel/python-volafile-tools
