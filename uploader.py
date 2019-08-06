@@ -84,7 +84,7 @@ def handle_file(file, room, filenum):
         file_id = room.upload_file(file, callback=callback, allow_timeout=True)
     except ValueError:
         print(
-            f"[{filenum}] Uploading to {room.name} | ERROR: File was to big to upload!",
+            f"[{filenum}] Uploading to {room.name} | ERROR: File was too big to upload!",
             end="\r",
         )
     except requests.exceptions.ConnectionError:
