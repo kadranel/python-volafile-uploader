@@ -2,7 +2,7 @@
 Python Volafile Uploader
 =====================
 
-Lightweight commandline interface for uploading to volafile.org rooms via volapi_. (Currently the uploader is working on volapi 5.16.0)
+Lightweight commandline interface for uploading to volafile.org rooms via volapi_. (Currently the uploader is working on volapi 5.17.0)
 
 .. _volapi: https://github.com/volafiled/python-volapi
 
@@ -14,7 +14,7 @@ Installation
   a) Python 3.7
   b) pip
 1) How to install
-  a) Download the newest release of the downloader at https://github.com/kadranel/python-volafile-uploader/archive/1.0.1.zip or git clone this repository.
+  a) Download the newest release of the downloader at https://github.com/kadranel/python-volafile-uploader/archive/1.0.2.zip or git clone this repository.
   b) Unzip and enter the folder with you favourite shell, then type:
 ::
 
